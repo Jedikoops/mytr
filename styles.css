@@ -1,0 +1,15 @@
+h1 {
+  text-decoration: underline;
+}
+body {
+  border: solid 5px;
+  text-align: center;
+}
+img {
+  border: outset 5px;
+}
+.btn {
+  display: block;
+  background-color: orange;
+  width: 250px;
+}
