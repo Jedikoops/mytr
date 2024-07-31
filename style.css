@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+	background-color: #9231a5;
+}
+h1 {
+	color: #ffffff;
+	text-align: center;
+	background-color: #18219a;
+}
+p {
+	color: #84acd7;
+}
+li {
+	font-size: 30px;
+}
