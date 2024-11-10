@@ -24,5 +24,7 @@
         echo "meow";
         ?>
 
+        <!--this file is currently broken because PHP cannot be parsed by godaddy -->
+
     </body>
 </html>
