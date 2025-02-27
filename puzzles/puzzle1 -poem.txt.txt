@@ -1,4 +1,0 @@
-Roses are red
-Violets are blue
-We like javascript
-And so will you

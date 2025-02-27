@@ -1,0 +1,19 @@
+h1 {
+  text-decoration: underline;
+  text-align: center;
+}
+
+
+p {
+  border: solid 5px;
+  text-align: left;
+  padding: 5px;
+}
+img {
+  border: outset 5px;
+}
+.btn {
+  display: block;
+  background-color: orange;
+  width: 250px;
+}
